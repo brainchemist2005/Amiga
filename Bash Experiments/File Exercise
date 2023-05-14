@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Write a Bash script that accepts a file path as an argument and outputs the 
+#number of lines in the file
+
+if [[ $# -eq 1 ]]; then
+  cat "The word count is: $1" | wc -w
+else
+  echo "Enter a valid input"
+fi
+ 

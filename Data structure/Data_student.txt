@@ -1,0 +1,34 @@
+Taha Sahli
+34562
+CSC1401 A
+CSC1401L N/A
+FAS0210 A+
+MTH1304 B+
+----------------
+Mehdi Salmane
+45678
+ACC2301 F
+CSC2305 C-
+CSC2306 C
+MTH2320 A
+SSC1310 B+
+----------------
+Salma Cherradi
+67895
+COM1301 A
+CSC2302 B+
+FAS1220 C
+MTH2320 D+
+PYH1401 F
+PHY1401L N/A
+----------------
+Aya Zaydi
+56789
+CHE1401 C
+CHE1401L N/A
+ACC2301 B+
+CSC2306 A
+PHY1402 A+
+PHY1402L N/A
+SOC1301 B- 
+----------------

@@ -1,0 +1,40 @@
+The name is Salwa Touhami
+The ID is 109201
+The GPA is 4
+------------------------------------
+The name is Ahmed Souhaib
+The ID is 114741
+The GPA is 3
+------------------------------------
+The name is Slimane Saber
+The ID is 114574
+The GPA is 4
+------------------------------------
+The name is Manal Cherrad
+The ID is 102934
+The GPA is 2
+------------------------------------
+The name is Meriem Guessous
+The ID is 112345
+The GPA is 1
+------------------------------------
+The name is Riduan Alaoui
+The ID is 125609
+The GPA is 4
+------------------------------------
+The name is Omar Ammor
+The ID is 110023
+The GPA is 4
+------------------------------------
+The name is Hanane Samar
+The ID is 112567
+The GPA is 0
+------------------------------------
+The name is Sara Allam
+The ID is 90342
+The GPA is 0
+------------------------------------
+The name is Ammar Sahel
+The ID is 100245
+The GPA is 2
+------------------------------------

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/brainchemist/Desktop/Computer Science/EclipseIDE/.metadata/.plugins/org.eclipse.jdt.core
+3281817522.index
+2055901506.index
+1863610102.index
+2867887566.index
+3967366745.index
+1865797976.index

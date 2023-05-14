@@ -1,0 +1,5 @@
+2022-08-16 20:43:34,681 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-16 22:09:03,659 [ModalContext] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://marketplace.eclipse.org:443
+2022-08-16 22:09:21,568 [Worker-31: https://eclipse.mirror.rafal.ca/releases/2022-06/202206151000/plugins/org.eclipse.emf.mwe2.language_2.13.0.v20220519-1115.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://eclipse.mirror.rafal.ca:443
+2022-08-16 22:39:19,639 [Worker-22: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-16 22:51:07,005 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

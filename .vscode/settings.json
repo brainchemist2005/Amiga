@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "future": "c",
+        "system_error": "c",
+        "regex": "c"
+    },
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
+}

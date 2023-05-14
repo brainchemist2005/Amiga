@@ -1,0 +1,108 @@
+96180
+AIT ACHOUR Ayman
+Computer Science
+-----------------------
+100216
+BADIDI Yasmine
+Computer Science
+-----------------------
+84664
+BELHARI EL Mehdi
+Computer Systems
+-----------------------
+90793
+BEN-BELLA Ali-Amine
+Computer Science
+-----------------------
+103879
+BOUARGAN Zakariae
+Computer Science
+-----------------------
+103686
+BOUFTINI RAYANE
+Big Data Analytics
+-----------------------
+102552
+BOUMELHA Aya
+Big Data Analytics
+-----------------------
+93588
+ECH -CHAFIY Bouchra
+Computer Science
+-----------------------
+88279
+EL FAKIR MOHAMMED AMINE
+Artificial Intelligence & Robotization
+-----------------------
+98865
+EL HADRI Mohamed Amine
+Artificial Intelligence & Robotization
+-----------------------
+99385
+GHIAT Hiba
+Computer Science
+-----------------------
+81149
+HATMI Samy
+Business Administration
+-----------------------
+102469
+IKEN Chaimae
+Computer Science
+-----------------------
+116752
+INEZLI Aymane
+Computer Science
+-----------------------
+108575
+JEBBAR Hiba
+Computer Science
+-----------------------
+111866
+JEBBOURI Yassine
+Computer Science
+-----------------------
+100958
+KHALDI Aymane
+Computer Science
+-----------------------
+88589
+KHRISS Hamza
+Computer Science
+-----------------------
+101999
+LABRACHE Fahd
+Computer Science
+-----------------------
+76057
+LAYACHI Othman
+Computer Science
+-----------------------
+112763
+MOUHIBE Zakariae
+Computer Science
+-----------------------
+104104
+MSATFA Hiba
+Computer Science
+-----------------------
+108552
+NOUIA Youssef
+Big Data Analytics
+-----------------------
+113755
+SABOR Othmane
+Computer Science
+-----------------------
+81660
+TOREIS Kenza
+Computer Science
+-----------------------
+101258
+ZHIRI Fatima Zahra
+Computer Systems
+-----------------------
+100552
+ZOUITNI Rihab
+Computer Science
+-----------------------

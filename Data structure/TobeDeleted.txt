@@ -1,0 +1,10 @@
+
+The name is Meryeme
+The ID is 24378
+The GPA is 2.000000
+The name is Omar
+The ID is 32984
+The GPA is 3.000000
+The name is Zakariae
+The ID is 103879
+The GPA is 4.000000

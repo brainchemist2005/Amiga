@@ -1,0 +1,32 @@
+75553
+ADERDOR Mouad
+Only 5th course I can take  
+-------------------------------------------------------------
+74283 
+BENYAHYA NOUHAILA
+I am taking the course for N times/I am on probation 
+-------------------------------------------------------------
+67195 
+HARDOUF OMAR
+I would like to take the course with a particular instructor 
+-------------------------------------------------------------
+76956 
+MORTAJI MOHAMED
+The course is a prerequisite for many courses I have to take
+-------------------------------------------------------------
+76650 
+MOURABITI Ziyad
+I am taking the course for N times/I am on probation
+-------------------------------------------------------------
+77369 
+SABET Aisha
+I am in my last semester 
+-------------------------------------------------------------
+74365 
+ZARANDY Salma
+I would like to take the course with a particular instructor
+-------------------------------------------------------------
+76754 
+ZOUINE ANASS
+The course is a prerequisite for many courses I have to take
+-------------------------------------------------------------
