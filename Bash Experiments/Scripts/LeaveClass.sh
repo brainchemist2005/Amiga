@@ -2,7 +2,7 @@
 
 value=false
 
-echo "Hello what time does your meeting end ? (HH:MM:AM/PM) format"
+echo "Hello what time does your meeting end ? (HH:MM AM/PM) format"
 echo "Here is an example $(date +"%I:%M %p")"
 read time
 
