@@ -9,7 +9,7 @@ read time
 echo "Are you using zoom or teams ?"
 read client 
 
-echo "You will leave the zoom meeting at $time"
+echo "You will leave the meeting at $time"
 
 while [ "$value" = false ]; do
     if [[ "$(date +"%I:%M %p")" == $time ]]; then
